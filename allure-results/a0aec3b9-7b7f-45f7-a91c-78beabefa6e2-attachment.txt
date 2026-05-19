@@ -1,0 +1,5 @@
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+3
+Adding product iphone 13 pro
+Thankyou for the order. Your orderId is 69dfd5cef86ba51a6568cdc8
+ bzbztest@gmail.com 

@@ -1,0 +1,8 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OWI4MmUzZGY4NmJhNTFhNjUwOWQ1MmQiLCJ1c2VyRW1haWwiOiJiemJ6dGVzdEBnbWFpbC5jb20iLCJ1c2VyTW9iaWxlIjo1NjQzMjEzNDU2LCJ1c2VyUm9sZSI6ImN1c3RvbWVyIiwiaWF0IjoxNzc2MTgxODQ2LCJleHAiOjE4MDc3Mzk0NDZ9.O-ZsHLFlZq3Yj-Pn9V9DRQK1C6YdULbb6SSAZyB7NUo
+{
+  orders: [ '69de6257f86ba51a65650a07' ],
+  productOrderId: [ '6960eae1c941646b7a8b3ed3' ],
+  message: 'Order Placed Successfully'
+}
+Verifying order 69de6257f86ba51a65650a07
+ bzbztest@gmail.com 

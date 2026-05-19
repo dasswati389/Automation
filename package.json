@@ -1,0 +1,28 @@
+{
+  "name": "playwriteautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "regression": "npx playwright test",
+    "webTest": "npx playwright test --grep @Web",
+    "apiTest": "npx playwright test --grep @API",
+    "sanityTest": "npx playwright test --grep @test --reporter=line,allure-playwright",
+    "firefoxBrowserTest": "npx playwright test --config playwright.customconfig.js --project=Firefox",
+    "smokeTest": "npx playwright test --grep @smoketest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.4.0",
+    "allure-playwright": "^3.7.1",
+    "exceljs": "^4.4.0",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^12.8.1",
+    "node": "^25.9.0"
+  }
+}

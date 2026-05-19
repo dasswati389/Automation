@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","48793","End to end shopping cart flow","","2026-04-14","broken","2026-04-14","","EndToEndShoppingCartPO.spec.js","",""
+"","58782","End to end shopping cart flow","","2026-04-14","passed","2026-04-14","","WebAPIEndToEnd.spec.js","",""
+"","8207","@test Application login using fixture","","2026-04-14","passed","2026-04-14","","ShoppingCartPOParam.spec.js","",""
+"","260335","Verify banner for event booking is present","","2026-04-14","failed","2026-04-14","","EventPageAPIAssignment.spec.js","",""
+"","6953","Launch Playwright Url","","2026-04-14","passed","2026-04-14","","UIBasics.spec.js","",""
+"","50386","Page & element Screenshot","","2026-04-14","broken","2026-04-14","","TestVisualComparision.spec.js","",""
+"","41553","End to end shopping cart flow","","2026-04-14","broken","2026-04-14","","EndToEndShoppingCart.spec.js","",""
