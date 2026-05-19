@@ -1,5 +1,5 @@
 import {test, expect} from '@playwright/test';
-const {POManager} = require('../Utils/pageobjects/POManager');
+const {POManager} = require('../pageobjects/POManager');
 const dataset = JSON.parse(JSON.stringify(require("../Utils/ShoppingCartPOParamTestData.json")));
 const {customtest} = require('../Utils/test-base');
 
